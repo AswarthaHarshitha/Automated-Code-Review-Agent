@@ -1,0 +1,7 @@
+requests
+rich
+fpdf2
+markdown2
+pylint
+bandit
+radon
